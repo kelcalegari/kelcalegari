@@ -22,6 +22,7 @@ Analista de Sistemas no Grupo Berlanda · Bacharel em Ciência da Computação (
 ## Tecnologias
 
 **No trabalho:** Python · Flask · React · Flutter · Oracle SQL · LSP (ERP Senior) · Selenium · PyAutoGUI · GitLab
+
 **Em projetos:** Dart · Firebase · Provider · Bloc/Cubit · Supabase
 
 ## Contato
