@@ -15,7 +15,7 @@ Analista de Sistemas no Grupo Berlanda · Bacharel em Ciência da Computação (
 
 | Projeto | O que é | Stack |
 | --- | --- | --- |
-| AlertaMED (repositório em breve) | App Android de adesão medicamentosa com lembretes, sintomas, cuidadores e assistente de IA (TCC) | Flutter · Firebase · OpenAI |
+| [AlertaMED](https://github.com/kelcalegari/alertamed_2-0) | App Android de adesão medicamentosa com lembretes, sintomas, cuidadores e assistente de IA (TCC) | Flutter · Firebase · OpenAI |
 | [MyToDoWeb](https://github.com/kelcalegari/MyToDoWeb) | Gerenciador de tarefas com listas, categorias e sincronização em tempo real, mobile e web | Flutter · Dart |
 | [EasyCopy](https://github.com/kelcalegari/EasyCopy) | Histórico da área de transferência para Windows, no estilo do Win+V | Python |
 
