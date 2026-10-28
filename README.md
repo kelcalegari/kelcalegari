@@ -1,32 +1,29 @@
-<h1 align="center">Olá 👋, Eu sou Kelvynn Bordin Calegari</h1>
-<h3 align="center">Estou graduando em Ciência da Computação na Univali (2020-2025) e procurando oportunidades de aprender ainda mais</h3>
+# Olá, eu sou o Kelvynn 👋
 
-- 🌱 Estou focando em aprender **Desenvolvimento Android/Software e API**
+Desenvolvedor de software em **Python, automação e integrações**, com **Flutter** no mobile.
+Analista de Sistemas no Grupo Berlanda · Bacharel em Ciência da Computação (Univali, 2025) · Porto Belo/SC
 
-- 💼 Atualmente, trabalho como **Analista de Sistemas no Grupo Berlanda**, contribuindo para o desenvolvimento e manutenção de sistemas que melhoram os processos e a experiência do cliente.
+## O que eu faço
 
-- 🔭 Estou sempre em busca de novos projetos interessantes para colaborar, especialmente aqueles relacionados a **Desenvolvimento Mobile, Software e APIs**.
+- **Automação e RPA:** projetei e desenvolvi um orquestrador de RPA interno (React + Flask, orquestrador central e workers) que hoje centraliza cerca de 50 automações, com filas, controle de acesso (ACL), retry com análise de falhas por IA, logs centralizados e deploy automático via Git.
+- **Integrações:** automações em Python que integram sistemas via HTTP e extraem dados de bancos, serviços web e PDFs para relatórios; integrações do ERP Senior em LSP (SPC, IEPTB, CT-e/MDF-e).
+- **Mobile:** apps em Flutter e Dart. Na empresa, desenvolvi um app coletor para o estoque, que associa produtos a pallets, movimenta estoques no ERP Senior via API e vincula os pallets às cargas enviadas ao CD. Fora dela, criei o AlertaMED, meu TCC.
 
-- 🤝 Estou aberto a oportunidades de networking e colaboração em projetos. Sinta-se à vontade para entrar em contato comigo!
+> Os projetos da empresa são privados. Aqui ficam meus projetos acadêmicos e pessoais.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/kelvynn-bordin-calegari-6a194a20a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/kelvynn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-</p>
+## Projetos em destaque
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
-</p>
+| Projeto | O que é | Stack |
+| --- | --- | --- |
+| [AlertaMED](https://github.com/kelcalegari/AlertaMED) | App Android de adesão medicamentosa com lembretes, sintomas, cuidadores e assistente de IA (TCC) | Flutter · Firebase · OpenAI |
+| [MyToDoWeb](https://github.com/kelcalegari/MyToDoWeb) | Gerenciador de tarefas com listas, categorias e sincronização em tempo real, mobile e web | Flutter · Dart |
+| [EasyCopy](https://github.com/kelcalegari/EasyCopy) | Histórico da área de transferência para Windows, no estilo do Win+V | Python |
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kelcalegari&show_icons=true&locale=en&layout=compact" alt="kelcalegari" /></p>
+## Tecnologias
+
+**No trabalho:** Python · Flask · React · Flutter · Oracle SQL · LSP (ERP Senior) · Selenium · PyAutoGUI · GitLab
+**Em projetos:** Dart · Firebase · Provider · Bloc/Cubit · Supabase
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kelvynn--bordin--calegari-0A66C2?logo=linkedin)](https://www.linkedin.com/in/kelvynn-bordin-calegari)
